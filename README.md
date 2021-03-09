@@ -9,4 +9,4 @@ I created this application as part of a lecture / training module that I led reg
 
 **Screenshots:**
 
-1. App flow (note: the GIF video appears laggy) ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/42954670/110419425-ed36ba00-805e-11eb-8ddd-23f91df1a24c.gif)
+1. App flow (note: the GIF video appears laggy) ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/42954670/110419741-8960c100-805f-11eb-8d5c-f41ee12cfc52.gif)
