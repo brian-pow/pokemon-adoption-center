@@ -1,4 +1,4 @@
-I created this application as part of a lecture / training module that I led regarding using Apollo Client to access a GraphQL endpoint from a React application. It's a mini-game that allows users to create an account, accumulate currency, "adopt" Pokémon, purchase food items in a marketplace, and feed Pokémon with purchased food. Feel free to give it a go at the link below. Pokémon and food selection rotates daily - gotta get lucky to get the good ones.
+I created this application as part of a lecture / training module that I led regarding using Apollo Client to access a GraphQL endpoint from a React application. It's a mini-game that allows users to create an account, accumulate currency, "adopt" Pokémon, purchase food items in a marketplace, and feed Pokémon with purchased food to maintan their health. Feel free to give it a go at the link below. Pokémon and food selection rotates daily - gotta get lucky to get the good ones.
 
 **TRY IT OUT HERE:** https://pokepokebp.netlify.app/
 
